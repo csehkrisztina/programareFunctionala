@@ -1,0 +1,8 @@
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\NamespacesAndModules\NamespacesAndModules\bin\Debug\NamespacesAndModules.exe.config
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\NamespacesAndModules\NamespacesAndModules\bin\Debug\NamespacesAndModules.XML
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\NamespacesAndModules\NamespacesAndModules\bin\Debug\NamespacesAndModules.exe
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\NamespacesAndModules\NamespacesAndModules\bin\Debug\NamespacesAndModules.pdb
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\NamespacesAndModules\NamespacesAndModules\bin\Debug\FSharp.Core.dll
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\NamespacesAndModules\NamespacesAndModules\bin\Debug\FSharp.Core.xml
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\NamespacesAndModules\NamespacesAndModules\obj\Debug\NamespacesAndModules.exe
+C:\work\Pluralsight\fsharp-fundamentals\fsharp-fundamentals-m4-organising\Examples\NamespacesAndModules\NamespacesAndModules\obj\Debug\NamespacesAndModules.pdb

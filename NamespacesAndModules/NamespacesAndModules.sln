@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "NamespacesAndModules", "NamespacesAndModules\NamespacesAndModules.fsproj", "{8D406D26-3A9F-4AFE-A6AB-8E791838D0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D406D26-3A9F-4AFE-A6AB-8E791838D0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D406D26-3A9F-4AFE-A6AB-8E791838D0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D406D26-3A9F-4AFE-A6AB-8E791838D0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D406D26-3A9F-4AFE-A6AB-8E791838D0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

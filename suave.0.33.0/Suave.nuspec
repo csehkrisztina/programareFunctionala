@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Suave</id>
+    <version>0.33.0</version>
+    <title>Suave</title>
+    <authors>Ademar Gonzalez, Henrik Feldt</authors>
+    <owners>Ademar Gonzalez, Henrik Feldt</owners>
+    <licenseUrl>https://github.com/SuaveIO/Suave/blob/master/COPYING</licenseUrl>
+    <projectUrl>http://suave.io</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/SuaveIO/resources/master/images/head_trans.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.</description>
+    <releaseNotes>Release Notes:
+
+ * [infra] bump albacore
+ * [infra] v0.33.0 with LibUV
+ * Merge branch 'bugs/324-post-parsing'
+ * [types] HttpRequest +fieldData Key -&gt; Choice&lt;Value, string&gt;
+ * [tests] better test for #324
+ * [tests] moving from 1/256 chance of false positive to 1/(256^8)
+ * Merge branch 'bugs/post-base64'
+ * [infra] bump albacore gem
+ * [parsing] ignore test for a while
+ * [parsing] failing test for #324
+ * [infra] bump albacore gem</releaseNotes>
+    <copyright>Ademar Gonzalez, Henrik Feldt</copyright>
+    <language>en-GB</language>
+    <dependencies>
+      <dependency id="FSharp.Core" version="3.1.2.5" />
+    </dependencies>
+  </metadata>
+</package>
